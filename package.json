@@ -1,5 +1,5 @@
 {
-  "name": "figo",
+  "name": "figo-test",
   "version": "1.0.0",
   "description": "Sandbox for figo testing",
   "main": "index.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/eurinb/figo/issues"
   },
-  "homepage": "https://github.com/eurinb/figo#readme"
+  "homepage": "https://github.com/eurinb/figo#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "figo": "^1.6.2"
+  }
 }
